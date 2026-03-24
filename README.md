@@ -127,6 +127,7 @@ Join us on [Discord](https://discord.waterpistol.co)!
 - **Python** [_Discord_](https://discord.gg/python)
 - **Liquid Neural Network** [Git](https://github.com/starsnatched/liquid-neural-network)
 - **Genesis Embodied AI** [Git](https://github.com/Genesis-Embodied-AI/Genesis)
+- **iscooked** [Git](https://github.com/dinosoup1/iscooked) | [Website](https://iscooked.com) — One-command security scanner for local AI setups
 
 ## Community
 
