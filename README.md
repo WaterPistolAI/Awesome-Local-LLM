@@ -48,6 +48,7 @@ Join us on [Discord](https://discord.waterpistol.co)!
 - **Agent Chef** [_Discord_](https://discord.gg/CAXMDpu9vY) | [_Git_](https://github.com/Leoleojames1/Agent_Chef) | [_Docs_](https://github.com/Leoleojames1/Agent_Chef/tree/main/docs)
 - **Rollcage** [_Discord_](https://discord.gg/CAXMDpu9vY) | [_Git_](https://github.com/Leoleojames1/ollama_agent_roll_cage) | [_Docs_](https://github.com/Leoleojames1/ollama_agent_roll_cage/tree/master/docs)
 - **Agentless** [Git](https://github.com/OpenAutoCoder/Agentless)
+- **rust-norion** [_Git_](https://github.com/yanghao1143/rust-norion)
 
 ## Diffusion
 
