@@ -16,6 +16,7 @@ Join us on [Discord](https://discord.waterpistol.co)!
 - **Anything LLM** [_Website_](https://anythingllm.com/) | [_Git_](https://github.com/Mintplex-Labs/anything-llm) | [_Discord_](https://discord.gg/MuqQrEBfwF) | [_Docs_](https://docs.anythingllm.com/)
 - **ComfyUI** [_Website_](https://www.comfy.org/) | [_Git_](https://github.com/comfyanonymous/ComfyUI) | [_Matrix_](https://app.element.io/#/room/%23comfyui_space%3Amatrix.org) | [_Docs_](https://comfyui-wiki.com/)
 - **oterm** [_Git_](https://github.com/ggozad/oterm)
+- **Off Grid AI Desktop** [_Website_](https://getoffgridai.co/desktop) | [_Git_](https://github.com/off-grid-ai/off-grid-ai-desktop)
 
 ## Local Inference
 
