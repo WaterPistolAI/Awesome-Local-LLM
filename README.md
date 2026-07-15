@@ -47,6 +47,7 @@ Join us on [Discord](https://discord.waterpistol.co)!
 - **Ollama Agents** [_Git_](https://github.com/MikeyBeez/Ollama_Agents)
 - **Agent Chef** [_Discord_](https://discord.gg/CAXMDpu9vY) | [_Git_](https://github.com/Leoleojames1/Agent_Chef) | [_Docs_](https://github.com/Leoleojames1/Agent_Chef/tree/main/docs)
 - **Rollcage** [_Discord_](https://discord.gg/CAXMDpu9vY) | [_Git_](https://github.com/Leoleojames1/ollama_agent_roll_cage) | [_Docs_](https://github.com/Leoleojames1/ollama_agent_roll_cage/tree/master/docs)
+- **Darkmoon** [_Git_](https://github.com/ASCIT31/Dark-Moon) | [_Site_](https://dark-moon.org) - autonomous AI penetration testing agent running on local models (Ollama, llama.cpp), orchestrating 80+ security tools over MCP
 - **Agentless** [Git](https://github.com/OpenAutoCoder/Agentless)
 
 ## Diffusion
