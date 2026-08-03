@@ -142,6 +142,7 @@ Join us on [Discord](https://discord.waterpistol.co)!
 - [_Awesome Torch_](https://github.com/carpedm20/awesome-torch)
 - [_Train a Llama Model from Scratch_](https://huggingface.co/blog/nroggendorff/train-with-llama-architecture)
 - **SAELens Example Dashboard** [Link](https://jbloomaus.github.io/SAELens/#example-wandb-dashboard)
+- [_LLM VRAM Calculator (VerdictBits)_](https://verdictbits.com/reviews/llm-vram-calculator/) - estimate the VRAM needed to run a model locally and see which GPUs fit
 
 ## Resources
 
