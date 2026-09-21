@@ -9,6 +9,7 @@ Join us on [Discord](https://discord.waterpistol.co)!
 - **ModelScope** [_Website_](https://modelscope.cn/models) | [_Discord_](https://discord.com/invite/JfAtkvEtRb) | [_Docs_](https://modelscope.cn/docs)
 - **Ollama** [_Website_](https://ollama.com/) | [_Git_](https://github.com/ollama/ollama) | [_Discord_](https://discord.gg/ollama) | [_Docs_](https://github.com/ollama/ollama/tree/main/docs)
 - **Github Models** [_Website_](https://github.com/marketplace/models) | [_Docs_](https://docs.github.com/en/github-models/prototyping-with-ai-models)
+- **tinymodels.co** [_Website_](https://tinymodels.co) — a curated catalogue of tiny open-source models (text, vision, video) with verified sha256 downloads and one measured latency figure per model, from one machine and one method
 
 ## UI
 
