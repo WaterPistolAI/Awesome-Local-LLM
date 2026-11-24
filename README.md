@@ -25,6 +25,8 @@ Join us on [Discord](https://discord.waterpistol.co)!
 - **vLLM** [_Git_](https://github.com/vllm-project/vllm) | [_Discord_](https://discord.gg/FUcUS3b757) | [_Docs_](https://docs.vllm.ai/en/latest/)
 - **LM Studio** [_Website_](https://lmstudio.ai/) | [_Discord_](https://discord.gg/8Zg47r4nr4) | [_Docs_](https://lmstudio.ai/docs/welcome)
 
+- **InferCalc** [_Website_](https://infercalc.com) - Free VRAM, KV cache, and inference cost calculator for local LLMs (Llama, DeepSeek, Qwen) and ComfyUI workflows.
+
 ## Coding
 
 - **Twinny** [_Website_](https://twinny.dev/) | [_Git_](https://github.com/twinnydotdev/twinny) | [_Docs_](https://twinnydotdev.github.io/twinny-docs/)
